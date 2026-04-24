@@ -1,0 +1,13 @@
+quesiton 1. you owns a parking lot in which there are variable prices for different no. of hours you need to hire a developer who can write the program to calculate the total bill
+1. for the first two hours hundred rs per hourse 
+2. for the next 3 hours 50rs per hours 
+3. remaining hours 25rs per hours
+
+q2. you need to calculate the total electricity bill based on the no. of unit and consumption
+1. for 0 to 100 unit 1.5 rs per unit
+2. for 101 to 200 unit 3.5 rs per unit 
+3. rest units 5 rs per unit 
+calculate the total bill and adds a rs fixed 50 as a fixedd charge 
+add surplass fine of 10% of the total billif bill exceeds rs 2000 
+
+q3. 
