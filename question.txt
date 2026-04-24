@@ -8,6 +8,11 @@ q2. you need to calculate the total electricity bill based on the no. of unit an
 2. for 101 to 200 unit 3.5 rs per unit 
 3. rest units 5 rs per unit 
 calculate the total bill and adds a rs fixed 50 as a fixedd charge 
-add surplass fine of 10% of the total billif bill exceeds rs 2000 
+add surplass fine of 10% of the total bill if bill exceeds rs 2000 
 
-q3. 
+q3. warehouse inventory management 
+youre a owner of warehouse in which there are total n products with the following details attributes 
+1. input - N = total no. of products
+2. for each product take the current stock and minimum required stock
+3. If any product is available in less than its minimum requirement then print "restock needed for product x",where x is the product no.
+print total no. of products that need to be restock
